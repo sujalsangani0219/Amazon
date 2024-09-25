@@ -1,0 +1,6 @@
+product_id,name,category,price,stock_level,cost_price
+101,iPhone 15,Electronics,999.99,500,850
+102,Samsung Galaxy S23,Electronics,899.99,800,750
+103,Sony PlayStation 5,Gaming,499.99,300,400
+104,Dyson Vacuum Cleaner,Home Appliances,299.99,100,250
+105,Apple MacBook Pro,Electronics,1299.99,400,1100

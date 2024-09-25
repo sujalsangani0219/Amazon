@@ -1,0 +1,6 @@
+warehouse_id,name,location
+501,Amazon Fulfillment Center JFK8,"New York, USA"
+502,Amazon Fulfillment Center LAX3,"Los Angeles, USA"
+503,Amazon Fulfillment Center ORD2,"Chicago, USA"
+504,Amazon Fulfillment Center ATL6,"Atlanta, USA"
+505,Amazon Fulfillment Center DFW7,"Dallas, USA"

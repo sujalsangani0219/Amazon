@@ -1,0 +1,6 @@
+supplier_id,name,contact_info,lead_time
+601,Apple Inc.,apple@example.com,7
+602,Samsung Electronics,samsung@example.com,10
+603,Sony Corp.,sony@example.com,14
+604,Dyson Ltd.,dyson@example.com,5
+605,Microsoft Corp.,microsoft@example.com,12

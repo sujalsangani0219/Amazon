@@ -1,0 +1,6 @@
+order_id,customer_id,order_date,total_amount,order_status
+201,301,2024-09-01,999.99,Shipped
+202,302,2024-09-02,1299.99,Delivered
+203,303,2024-09-03,499.99,Pending
+204,301,2024-09-04,999.99,Shipped
+205,304,2024-09-05,899.99,Canceled
